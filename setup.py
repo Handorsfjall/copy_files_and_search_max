@@ -1,5 +1,5 @@
 import setuptools
-import copy_file_and_search_max
+import copy_files_and_search_max
 
 with open('README.md') as fr:
     long_description = fr.read()
