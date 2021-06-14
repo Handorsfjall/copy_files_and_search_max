@@ -4,7 +4,7 @@ With this code, you can copy all the files from your repository and find the lar
 
 
 
-from copy_file_and_search_max.copy_file_and_search_max import copy_file_max_size
+from copy_files_and_search_max.copy_files_and_search_max import copy_file_max_size
 
 
 
